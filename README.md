@@ -16,6 +16,7 @@ Handle strings for account holder names and contact details
 
 
 BankingApplication/
+
 │
 ├── Account.java          # Defines attributes & methods for a bank account
 ├── UserInterface.java    # Provides menu-driven interaction with users
@@ -36,9 +37,13 @@ The system stores accounts in an array and allows multiple users to be managed.
 
 🔑 Key Concepts Covered
 Object-Oriented Programming (OOP) → Encapsulation using Account class
+
 Arrays → Store multiple account objects
+
 Control Structures → if-else, switch, loops
+
 String Handling → Manage names, emails, phone numbers
+
 Scanner Input → Read user input dynamically
 
 📜 License
