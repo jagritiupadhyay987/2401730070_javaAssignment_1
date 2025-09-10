@@ -17,8 +17,11 @@ Handle strings for account holder names and contact details
 
 BankingApplication/
 │
-├── Account.java        # Defines attributes & methods for a bank account
-├── UserInterface.java  # Provides menu-driven interaction with users
+├── Account.java  
+# Defines attributes & methods for a bank account
+├── UserInterface.java 
+# Provides menu-driven interaction with users
+
 └── README.md           # Documentation
 
 ⚙️ How It Works
