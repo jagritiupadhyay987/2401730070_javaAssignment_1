@@ -4,14 +4,19 @@
 🏦 Banking Application in Java
 
 A console-based banking system developed in Java.
+
 This project allows users to create and manage bank accounts with operations like deposit, withdrawal, updating details, and viewing account information.
 
 ✨ Project Objectives
 
-Apply Java basics (data types, operators, type casting).
+Apply Java basics (data types, operators, type casting)
+
 Use control structures (loops, conditions, switch-case).
+
 Implement I/O operations with Scanner class.
+
 Manage multiple accounts using arrays.
+
 Handle strings for account holder names and contact details
 
 
@@ -25,17 +30,24 @@ BankingApplication/
 ⚙️ How It Works
 
 User is greeted with a menu.Options available:
+
 Create a new account
+
 Deposit money
+
 Withdraw money
+
 View account details
+
 Update contact details
+
 Exit application
 
 The system stores accounts in an array and allows multiple users to be managed.
 
 
 🔑 Key Concepts Covered
+
 Object-Oriented Programming (OOP) → Encapsulation using Account class
 
 Arrays → Store multiple account objects
